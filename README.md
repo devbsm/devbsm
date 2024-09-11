@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devbsm or Mahdi
 - 👀 I’m interested in ... Machine Learning && Data Science 
-- 🌱 I’m currently learning doing a PhD on  Artificial Intelligence 
+- 🌱 I’m currently doing a PhD on  Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ... projects that are related to machine learning (Computer Vision, NLP, .. )  
 - 📫 How to reach me ... my email adress: sidahmed.boualem@univ-mascara.dz 
 
